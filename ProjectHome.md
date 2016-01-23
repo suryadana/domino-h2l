@@ -1,0 +1,1 @@
+Based on domino 'All fives' rule, a domino project is made and it has similar functions like Yahoo!
